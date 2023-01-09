@@ -1,2 +1,2 @@
 # Odin Projects
-No projects yet
+No projects yet.
