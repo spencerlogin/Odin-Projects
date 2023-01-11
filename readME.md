@@ -13,5 +13,8 @@ This is a good resource for the types of images used in most websites
 #### https://www.conventionalcommits.org/en/v1.0.0/
 A convention for git commits
 
+#### https://css-tricks.com/almanac/properties/m/margin/
+This is an in-depth resource which explains how margins on html elements work
+
 ## Project 1: Website
 This project is to help me get used to using the CLI with git and to help me brush up on my HTML and CSS.
