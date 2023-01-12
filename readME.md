@@ -25,5 +25,8 @@ This resource contains explanations for the most common values of the 'flex' sty
 #### https://developer.mozilla.org/en-US/docs/Web/CSS/flex
 This resource contains an in-depth explanation of the 'flex' style in flex items
 
+#### <a href="flexbox properties.pdf">flexbox properties</a>
+This resource contains a cheatsheet for useful flexbox properties.
+
 ## Project 1: Website
 This project is to help me get used to using the CLI with git and to help me brush up on my HTML and CSS.
