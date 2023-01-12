@@ -20,7 +20,10 @@ This is an in-depth resource which explains how margins on html elements work
 This resource is even more in-depth, and it talks about the box model as a whole in detail
 
 #### https://www.w3.org/TR/css-flexbox-1/#flex-common
-This resource contains explanations for the most common values of the 'flex' style in flex items.
+This resource contains explanations for the most common values of the 'flex' style in flex item
+
+#### https://developer.mozilla.org/en-US/docs/Web/CSS/flex
+This resource contains an in-depth explanation of the 'flex' style in flex items
 
 ## Project 1: Website
 This project is to help me get used to using the CLI with git and to help me brush up on my HTML and CSS.
